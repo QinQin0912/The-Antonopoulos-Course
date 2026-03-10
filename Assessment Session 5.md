@@ -39,9 +39,3 @@ Shamir’s Secret Sharing - distribute key material across shares for recovery
 #10
 A seed phrase is a human-readable backup that can restore the entire wallet including all private keys and addresses.
 
-
-
-
-#10
-
-
