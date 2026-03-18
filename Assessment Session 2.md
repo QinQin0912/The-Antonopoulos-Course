@@ -5,7 +5,7 @@ In Bitcoin, what model represents how transactions are consumed and created when
 Question 2
 The consensus mechanism that secures Bitcoin and determines which block is accepted is based on the longest chain with the greatest cumulative difficulty.
 
-Question 
+Question 3
 Combination of SHA-256 and RIPEMD-160 hash functions  is primarily employed in the generation of Bitcoin addresses.
 
 Question 4
