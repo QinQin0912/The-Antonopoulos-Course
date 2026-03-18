@@ -1,5 +1,5 @@
 
-# 1
+#1
 HD wallets generate all private keys from a single seed phrase, making backup easier, and addresses can be restored from that seed.
 
 
